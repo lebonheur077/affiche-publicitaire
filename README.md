@@ -1,2 +1,0 @@
-# affiche-publicitaire
-affiche publicitaire
